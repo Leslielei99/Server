@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P60mj3nFiiiibz/RzCP76fQxBe4iuEWd46I4NLaqDJ0Gdj9N6caa/12Z8j0sv4j+hWJYdYuX/8D2bgiq77gSbA==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\Winform\\project\\Serves01\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leslielei\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Leslielei\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

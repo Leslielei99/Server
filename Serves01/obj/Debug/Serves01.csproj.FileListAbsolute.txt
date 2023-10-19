@@ -1,0 +1,7 @@
+D:\Study\Winform\project\Serves01\Serves01\bin\Debug\Serves01.exe.config
+D:\Study\Winform\project\Serves01\Serves01\bin\Debug\Serves01.exe
+D:\Study\Winform\project\Serves01\Serves01\bin\Debug\Serves01.pdb
+D:\Study\Winform\project\Serves01\Serves01\obj\Debug\Serves01.csproj.AssemblyReference.cache
+D:\Study\Winform\project\Serves01\Serves01\obj\Debug\Serves01.csproj.CoreCompileInputs.cache
+D:\Study\Winform\project\Serves01\Serves01\obj\Debug\Serves01.exe
+D:\Study\Winform\project\Serves01\Serves01\obj\Debug\Serves01.pdb

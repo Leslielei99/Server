@@ -1,0 +1,9 @@
+D:\Study\Winform\project\Serves01\MySQLServes\bin\Debug\MySQLServes.exe.config
+D:\Study\Winform\project\Serves01\MySQLServes\bin\Debug\MySQLServes.exe
+D:\Study\Winform\project\Serves01\MySQLServes\bin\Debug\MySQLServes.pdb
+D:\Study\Winform\project\Serves01\MySQLServes\bin\Debug\MySql.Data.dll
+D:\Study\Winform\project\Serves01\MySQLServes\obj\Debug\MySQLServes.csproj.AssemblyReference.cache
+D:\Study\Winform\project\Serves01\MySQLServes\obj\Debug\MySQLServes.csproj.CoreCompileInputs.cache
+D:\Study\Winform\project\Serves01\MySQLServes\obj\Debug\MySQLServes.csproj.CopyComplete
+D:\Study\Winform\project\Serves01\MySQLServes\obj\Debug\MySQLServes.exe
+D:\Study\Winform\project\Serves01\MySQLServes\obj\Debug\MySQLServes.pdb
